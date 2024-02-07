@@ -1,3 +1,3 @@
 # demo
-this is my first github project.
-author- Suyash Sinha
+This is my first github project.
+Author- Suyash Sinha
